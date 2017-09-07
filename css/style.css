@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  font-family: "OpenSans", sans-serif;
+  background: #E9D460; }
+
+.navbar {
+  background: #2ABB9B;
+  border-color: #2ABB9B; }
+  .navbar .navbar-header > a {
+    color: black; }
+  .navbar .navbar-nav > li > a {
+    color: black; }
+  .navbar .navbar-nav > .active > a {
+    background-color: #E9D460;
+    font-weight: 600;
+    color: black; }
+
+.excercise {
+  margin-top: 50px;
+  min-height: 300px; }
+
+.footer {
+  background-color: #2ABB9B;
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
